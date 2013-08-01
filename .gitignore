@@ -4,3 +4,11 @@
 *.jar
 *.war
 *.ear
+target
+
+# Personal Files #
+env.sh
+
+# Generated Files #
+tweet-category.tsv
+.tweet-category.tsv.crc
